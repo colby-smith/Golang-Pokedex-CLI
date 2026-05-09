@@ -1,0 +1,1 @@
+// this file will contain the structure for the data used from pokeapi.
